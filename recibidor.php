@@ -14,10 +14,11 @@
       $password = $_post[password];
 
       echo "
-      <h1>$nombre </h1>
+      <h1>$nombre</h1>
       <h1>$apellido</h1>
       <h1>$email</h1>
       <h1>$password</h1>
+      <h1>acho</h1>
       ";
     ?>
 
